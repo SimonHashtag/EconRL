@@ -29,7 +29,15 @@ Erev, Ido; Roth, Alvin E. (1998): **Predicting How People Play Games: Reinforcem
 Franke, Reiner (2003): **Reinforcement learning in the El Farol model**. In Journal of Economic Behavior & Organization 51 (3), pp. 367–388. DOI: 10.1016/S0167-2681(02)00152-X.
 
 ## Price Theory
+Calvano, Emilio; Calzolari, Giacomo; Denicolò, Vincenzo; Pastorello, Sergio (2020): Artificial Intelligence, Algorithmic Pricing, and Collusion. In American Economic Review 110 (10), pp. 3267–3297. DOI: 10.1257/aer.20190623.
+
 Danassis, Panayiotis; Filos-Ratsikas, Aris; Faltings, Boi (2021): **Achieving Diverse Objectives with AI-driven Prices in Deep Reinforcement Learning Multi-agent Markets**. Available online at https://arxiv.org/pdf/2106.06060.
+
+Hettich, Matthias (2021): Algorithmic Collusion: Insights from Deep Learning. Available online at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785966.
+
+Werner, Tobias (2021): Algorithmic and Human Collusion. Available online at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960738.
+
+Johnson, Justin P.; Rhodes, Andrew; Wildenbeest, Matthijs (2023): Platform Design When Sellers Use Pricing Algorithms. In ECTA 91 (5), pp. 1841–1879. DOI: 10.3982/ECTA19978.
 
 ## Financial Markets
 Bekiros, Stelios D. (2010): **Heterogeneous trading strategies with adaptive fuzzy Actor–Critic reinforcement learning: A behavioral approach**. In Journal of Economic Dynamics and Control 34 (6), pp. 1153–1170.
