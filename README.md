@@ -23,6 +23,8 @@ Hill, Edward; Bardoscia, Marco; Turrell, Arthur (2021): **Solving Heterogeneous 
 
 Curry, Michael; Trott, Alexander; Phade, Soham; Bai, Yu; Zheng, Stephan (2022): **Analyzing Micro-Founded General Equilibrium Models with Many Agents using Deep Reinforcement Learning**. Available online at https://arxiv.org/pdf/2201.01163.
 
+Atashbar, Tohid; Shi, Rui Aruhan (2023): **AI and Macroeconomic Modeling : Deep Reinforcement Learning in an RBC model**. International Monetary Fund (WP/22/40). Available online at https://www.imf.org/en/Publications/WP/Issues/2023/02/24/AI-and-Macroeconomic-Modeling-Deep-Reinforcement-Learning-in-an-RBC-model-530084
+
 ## Game Theory
 Erev, Ido; Roth, Alvin E. (1998): **Predicting How People Play Games: Reinforcement Learning in Experimental Games with Unique, Mixed Strategy Equilibria**. In The American Economic Review 88 (4), pp. 848–881. Available online at http://www.jstor.org/stable/117009.
 
@@ -38,6 +40,8 @@ Hettich, Matthias (2021): **Algorithmic Collusion: Insights from Deep Learning**
 Werner, Tobias (2021): **Algorithmic and Human Collusion**. Available online at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960738.
 
 Johnson, Justin P.; Rhodes, Andrew; Wildenbeest, Matthijs (2023): **Platform Design When Sellers Use Pricing Algorithms**. In ECTA 91 (5), pp. 1841–1879. DOI: 10.3982/ECTA19978.
+
+Frick, Kevin Michael (2023): **Convergence Rates and Collusive Outcomes of Pricing Algorithms**. Available online at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527452
 
 ## Financial Markets
 Bekiros, Stelios D. (2010): **Heterogeneous trading strategies with adaptive fuzzy Actor–Critic reinforcement learning: A behavioral approach**. In Journal of Economic Dynamics and Control 34 (6), pp. 1153–1170.
@@ -76,3 +80,10 @@ This collection is an ongoing by-product of my PhD program and makes no claim to
 If you have spotted a really interesting application of reinforcement learning in economics or finance or if you stumbled upon a really helpful paper that proposes a new RL method, just propose it via a GitHub Issue and I will add it to this list. Also, if you find any mistakes (e.g. wrong link or some paper has been published, yet) just create an issue. You can also propose changes via a pull request. Further, I am happy to hear from you about further improvements to this GitHub repository!
 
 **The goal of it all is to have a kind of curated list of relevant literature so that novices can easily access the small field and seniors find new publications easily.**
+
+## Contributions
+
+Sincere thanks to the following contributors:
+| GitHub-Username | Suggested paper(s) |
+| --------------- | ------------------ |
+| [@nehalahmedshaikh](https://github.com/nehalahmedshaikh) | Atashbar, Shi (2023) |
