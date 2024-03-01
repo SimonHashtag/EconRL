@@ -2,15 +2,15 @@
 In this repository you find a comprehensive and hopefully growing list of relevant literature in the sphere of Economics, Finance and Reinforcement Learning.
 
 ## Table of Contents
-1. [Literature Reviews](literature-reviews)
-2. [Macroeconomics](macroeconomics)
-3. [Game Theory](game-theory)
-4. [Price Theory](algorithmic-pricing)
-5. [Financial Markets](financial-markets)
-6. [Economic Policy](economic-policy)
-7. [Other Relevant Material](other-relevant-material)
-8. [How To Participate](how-to-participate)
-9. [Contributions](contributions)
+1. [Literature Reviews](#literature-reviews)
+2. [Macroeconomics](#macroeconomics)
+3. [Game Theory](#game-theory)
+4. [Price Theory](#algorithmic-pricing)
+5. [Financial Markets](#financial-markets)
+6. [Economic Policy](#economic-policy)
+7. [Other Relevant Material](#other-relevant-material)
+8. [How To Participate](#how-to-participate)
+9. [Contributions](#contributions)
 
 ## Literature Reviews <a name="literature-reviews"></a>
 Mosavi, Amirhosein; Faghan, Yaser; Ghamisi, Pedram; Duan, Puhong; Ardabili, Sina Faizollahzadeh; Salwana, Ely; Band, Shahab S. (2020): **Comprehensive Review of Deep Reinforcement Learning Methods and Applications in Economics**. In Mathematics 8 (10), p. 1640. DOI: 10.3390/math8101640.
