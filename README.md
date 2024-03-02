@@ -97,3 +97,4 @@ Sincere thanks to the following contributors:
 | GitHub-Username | Suggested paper(s) |
 | --------------- | ------------------ |
 | [@nehalahmedshaikh](https://github.com/nehalahmedshaikh) | Atashbar, Shi (2023) |
+| [@Jocho-Smith](https://github.com/Jocho-Smith) | Hambly, Ben (2023) |
