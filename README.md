@@ -13,11 +13,14 @@ In this repository you find a comprehensive and hopefully growing list of releva
 9. [Contributions](#contributions)
 
 ## Literature Reviews <a name="literature-reviews"></a>
+
 Mosavi, Amirhosein; Faghan, Yaser; Ghamisi, Pedram; Duan, Puhong; Ardabili, Sina Faizollahzadeh; Salwana, Ely; Band, Shahab S. (2020): **Comprehensive Review of Deep Reinforcement Learning Methods and Applications in Economics**. In Mathematics 8 (10), p. 1640. DOI: 10.3390/math8101640.
 
 Charpentier, Arthur; Élie, Romuald; Remlinger, Carl (2021): **Reinforcement Learning in Economics and Finance**. In Comput Econ, pp. 1–38. DOI: 10.1007/s10614-021-10119-4.
 
 Tilbury, Callum Rhys (2022): **Reinforcement Learning for Economic Policy: A New Frontier?** Available online at http://arxiv.org/pdf/2206.08781.pdf.
+
+Hambly, Ben; Xu, Renyuan; Yang, Huining (2023): **Recent advances in reinforcement learning in finance**. Mathematical Finance DOI: 10.1111/mafi.12382 ; Also preprint available online at https://arxiv.org/pdf/2112.04553.pdf
 
 ## Macroeconomics <a name="macroeconomics"></a>
 Chen, Mingli; Joseph, Andreas; Kumhof, Michael; Pan, Xinlei; Shi, Rui; Zhou, Xuan (2021): **Deep Reinforcement Learning in a Monetary Model**. Available online at https://arxiv.org/pdf/2104.09368.
@@ -94,3 +97,4 @@ Sincere thanks to the following contributors:
 | GitHub-Username | Suggested paper(s) |
 | --------------- | ------------------ |
 | [@nehalahmedshaikh](https://github.com/nehalahmedshaikh) | Atashbar, Shi (2023) |
+| [@Jocho-Smith](https://github.com/Jocho-Smith) | Hambly, Ben (2023) |
