@@ -31,6 +31,12 @@ Curry, Michael; Trott, Alexander; Phade, Soham; Bai, Yu; Zheng, Stephan (2022): 
 
 Atashbar, Tohid; Shi, Rui Aruhan (2023): **AI and Macroeconomic Modeling : Deep Reinforcement Learning in an RBC model**. International Monetary Fund (WP/22/40). Available online at https://www.imf.org/en/Publications/WP/Issues/2023/02/24/AI-and-Macroeconomic-Modeling-Deep-Reinforcement-Learning-in-an-RBC-model-530084
 
+Brusatin, Simone; Padoan, Tommaso; Coletta, Andrea; Gatti, Domenico Delli; Glielmo, Aldo (2024): **Simulating the economic impact of rationality through reinforcement learning and agent-based modelling**. Available online at http://arxiv.org/pdf/2405.02161.
+
+Dwarakanath, Kshama; Vyetrenko, Svitlana; Tavallali, Peyman; Balch, Tucker (2024): **ABIDES-Economist: Agent-Based Simulation of Economic Systems with Learning Agents**.  Available online at http://arxiv.org/pdf/2402.09563.
+
+Evans, Benjamin Patrick; Ganesh, Sumitra (2024): **Learning and Calibrating Heterogeneous Bounded Rational Market Behaviour with Multi-Agent Reinforcement Learning**. Available online at http://arxiv.org/pdf/2402.00787.
+
 ## Game Theory <a name="game-theory"></a>
 Erev, Ido; Roth, Alvin E. (1998): **Predicting How People Play Games: Reinforcement Learning in Experimental Games with Unique, Mixed Strategy Equilibria**. In The American Economic Review 88 (4), pp. 848–881. Available online at http://www.jstor.org/stable/117009.
 
@@ -38,8 +44,6 @@ Franke, Reiner (2003): **Reinforcement learning in the El Farol model**. In Jour
 
 ## Price Theory <a name="algorithmic-pricing"></a>
 Calvano, Emilio; Calzolari, Giacomo; Denicolò, Vincenzo; Pastorello, Sergio (2020): **Artificial Intelligence, Algorithmic Pricing, and Collusion**. In American Economic Review 110 (10), pp. 3267–3297. DOI: 10.1257/aer.20190623.
-
-Danassis, Panayiotis; Filos-Ratsikas, Aris; Faltings, Boi (2021): **Achieving Diverse Objectives with AI-driven Prices in Deep Reinforcement Learning Multi-agent Markets**. Available online at https://arxiv.org/pdf/2106.06060.
 
 Hettich, Matthias (2021): **Algorithmic Collusion: Insights from Deep Learning**. Available online at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785966.
 
@@ -67,8 +71,18 @@ Zheng, Stephan; Trott, Alexander; Srinivasa, Sunil; Parkes, David C.; Socher, Ri
 
 Hinterlang, Natascha; Tänzer, Alina (2021): **Optimal Monetary Policy Using Reinforcement Learning**. Deutsche Bundesbank Discussion Paper, 51/2021. Available online at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4025682.
 
+Danassis, Panayiotis; Erden, Zeki Doruk; Faltings, Boi (2022): **Exploiting environmental signals to enable policy correlation in large-scale decentralized systems**. In: Auton Agent Multi-Agent Syst 36 (1), S. 1–46. DOI: 10.1007/s10458-021-09541-7.
+
+Danassis, Panayiotis; Filos-Ratsikas, Aris; Chen, Haipeng; Tambe, Milind; Faltings, Boi (2023): **AI-driven Prices for Externalities and Sustainability in Production Markets**. Available online at http://arxiv.org/pdf/2106.06060v3.
+
 ## Other Relevant Material <a name="other-relevant-material"></a>
 This material has helped me and others a lot in some of my applications and my understanding of reinforcement learning algorithms:
+
+Sutton, Richard S.; Barto, Andrew (2018): **Reinforcement learning. An introduction**. Second edition. Cambridge, Massachusetts, London, England: The MIT Press. Available online at http://incompleteideas.net/book/the-book.html.
+
+Bertsekas, Dimitri P. (2023): **A Course in reinforcement learning**. Belmont, Massachusetts: Athena Scientific. Available online at https://web.mit.edu/dimitrib/www/RLCOURSECOMPLETE.pdf.
+
+Albrecht, Stefano V.; Christianos, Filippos; Schäfer, Lukas (2024): **Multi-agent reinforcement learning. Foundations and modern approaches**. Cambridge, Massachusetts: The MIT Press. Available online at https://www.marl-book.com.
 
 Henderson, Peter; Islam, Riashat; Bachman, Philip; Pineau, Joelle; Precup, Doina; Meger, David (2018): **Deep Reinforcement Learning That Matters**. In AAAI 32 (1). DOI: 10.1609/aaai.v32i1.11694.
 
