@@ -75,6 +75,8 @@ Danassis, Panayiotis; Erden, Zeki Doruk; Faltings, Boi (2022): **Exploiting envi
 
 Danassis, Panayiotis; Filos-Ratsikas, Aris; Chen, Haipeng; Tambe, Milind; Faltings, Boi (2023): **AI-driven Prices for Externalities and Sustainability in Production Markets**. Available online at http://arxiv.org/pdf/2106.06060v3.
 
+Mi, Qirui; Xia, Siyu; Song, Yan; Zhang, Haifeng; Zhu, Shenghao; Wang, Jun (2024): **TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning**. In: Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024). Auckland, New Zealand. Online verfügbar unter http://arxiv.org/pdf/2309.16307.
+
 ## Other Relevant Material <a name="other-relevant-material"></a>
 This material has helped me and others a lot in some of my applications and my understanding of reinforcement learning algorithms:
 
