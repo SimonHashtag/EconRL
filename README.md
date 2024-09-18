@@ -67,15 +67,15 @@ Azhikodan, Akhil Raj; Bhat, Anvitha G. K.; Jadhav, Mamatha V. (2019): **Stock Tr
 ## Economic policy <a name="economic-policy"></a>
 Zheng, Stephan; Trott, Alexander; Srinivasa, Sunil; Naik, Nikhil; Gruesbeck, Melvin; Parkes, David C.; Socher, Richard (2020): **The AI Economist: Improving Equality and Productivity with AI-Driven Tax Policies**. Available online at https://arxiv.org/pdf/2004.13332.
 
-Zheng, Stephan; Trott, Alexander; Srinivasa, Sunil; Parkes, David C.; Socher, Richard (2021): **The AI Economist: Optimal Economic Policy Design via Two-level Deep Reinforcement Learning**. Available online at https://arxiv.org/pdf/2108.02755.
-
 Hinterlang, Natascha; Tänzer, Alina (2021): **Optimal Monetary Policy Using Reinforcement Learning**. Deutsche Bundesbank Discussion Paper, 51/2021. Available online at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4025682.
 
 Danassis, Panayiotis; Erden, Zeki Doruk; Faltings, Boi (2022): **Exploiting environmental signals to enable policy correlation in large-scale decentralized systems**. In: Auton Agent Multi-Agent Syst 36 (1), S. 1–46. DOI: 10.1007/s10458-021-09541-7.
 
+Zheng, Stephan; Trott, Alexander; Srinivasa, Sunil; Parkes, David C.; Socher, Richard (2022): **The AI Economist: Taxation policy design via two-level deep multiagent reinforcement learning**. In: Science advances 8 (18), eabk2607. DOI: 10.1126/sciadv.abk2607. Available online at https://www.science.org/doi/10.1126/sciadv.abk2607
+
 Danassis, Panayiotis; Filos-Ratsikas, Aris; Chen, Haipeng; Tambe, Milind; Faltings, Boi (2023): **AI-driven Prices for Externalities and Sustainability in Production Markets**. Available online at http://arxiv.org/pdf/2106.06060v3.
 
-Mi, Qirui; Xia, Siyu; Song, Yan; Zhang, Haifeng; Zhu, Shenghao; Wang, Jun (2024): **TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning**. In: Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024). Auckland, New Zealand. Online verfügbar unter http://arxiv.org/pdf/2309.16307.
+Mi, Qirui; Xia, Siyu; Song, Yan; Zhang, Haifeng; Zhu, Shenghao; Wang, Jun (2024): **TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning**. In: Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024). Auckland, New Zealand. Available online at http://arxiv.org/pdf/2309.16307.
 
 ## Other Relevant Material <a name="other-relevant-material"></a>
 This material has helped me and others a lot in some of my applications and my understanding of reinforcement learning algorithms:
