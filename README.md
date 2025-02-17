@@ -3,14 +3,15 @@ In this repository you find a comprehensive and hopefully growing list of releva
 
 ## Table of Contents
 1. [Literature Reviews](#literature-reviews)
-2. [Macroeconomics](#macroeconomics)
-3. [Game Theory](#game-theory)
-4. [Price Theory](#algorithmic-pricing)
-5. [Financial Markets](#financial-markets)
-6. [Economic Policy](#economic-policy)
-7. [Other Relevant Material](#other-relevant-material)
-8. [How To Participate](#how-to-participate)
-9. [Contributions](#contributions)
+2. [General](#general)
+3. [Macroeconomics](#macroeconomics)
+4. [Game Theory](#game-theory)
+5. [Price Theory](#algorithmic-pricing)
+6. [Financial Markets](#financial-markets)
+7. [Economic Policy](#economic-policy)
+8. [Other Relevant Material](#other-relevant-material)
+9. [How To Participate](#how-to-participate)
+10. [Contributions](#contributions)
 
 ## Literature Reviews <a name="literature-reviews"></a>
 
@@ -21,6 +22,12 @@ Charpentier, Arthur; Élie, Romuald; Remlinger, Carl (2021): **Reinforcement Lea
 Tilbury, Callum Rhys (2022): **Reinforcement Learning for Economic Policy: A New Frontier?** Available online at http://arxiv.org/pdf/2206.08781.pdf.
 
 Hambly, Ben; Xu, Renyuan; Yang, Huining (2023): **Recent advances in reinforcement learning in finance**. Mathematical Finance DOI: 10.1111/mafi.12382 ; Also preprint available online at https://arxiv.org/pdf/2112.04553.pdf
+
+## General <a name="general"></a>
+
+Iskhakov, Fedor; Rust, John; Schjerning, Bertel (2020): **Machine learning and structural econometrics: contrasts and synergies**. In: Econom J 23 (3), S81-S124. DOI: 10.1093/ectj/utaa019.
+
+Haastert, Simon Gero and Schluter, Christian and Trede, Mark M. (2025): **Inequality Measurement - A unifying framework for dynamics, multidimensionality, and uncertainty**. Available at SSRN: https://ssrn.com/abstract=5118815 or http://dx.doi.org/10.2139/ssrn.5118815.
 
 ## Macroeconomics <a name="macroeconomics"></a>
 Chen, Mingli; Joseph, Andreas; Kumhof, Michael; Pan, Xinlei; Shi, Rui; Zhou, Xuan (2021): **Deep Reinforcement Learning in a Monetary Model**. Available online at https://arxiv.org/pdf/2104.09368.
@@ -48,6 +55,8 @@ Calvano, Emilio; Calzolari, Giacomo; Denicolò, Vincenzo; Pastorello, Sergio (20
 Hettich, Matthias (2021): **Algorithmic Collusion: Insights from Deep Learning**. Available online at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785966.
 
 Werner, Tobias (2021): **Algorithmic and Human Collusion**. Available online at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960738.
+
+Johanson, Michael B., Hughes, Edward, Timbers, Finbarr, & Leibo, Joel Z. (2022). **Emergent bartering behaviour in multi-agent reinforcement learning**. Available online at https://arxiv.org/abs/2205.06760.
 
 Johnson, Justin P.; Rhodes, Andrew; Wildenbeest, Matthijs (2023): **Platform Design When Sellers Use Pricing Algorithms**. In ECTA 91 (5), pp. 1841–1879. DOI: 10.3982/ECTA19978.
 
@@ -96,9 +105,9 @@ Pardo, Fabio; Tavakoli, Arash; Levdik, Vitaly; Kormushev, Petar (2018): **Time L
 
 Petrazzini, Irving G. B.; Antonelo, Eric A. (2021): **Proximal Policy Optimization with Continuous Bounded Action Space via the Beta Distribution**. Available online at https://arxiv.org/pdf/2111.02202.
 
-Abbas, Zaheer; Zhao, Rosie; Modayil, Joseph; White, Adam; Machado, Marlos C. (2023): **Loss of Plasticity in Continual Deep Reinforcement Learning**. Available online at http://arxiv.org/pdf/2303.07507v1.
+Eimer, Theresa; Lindauer, Marius; Raileanu, Roberta (2023): **Hyperparameters in Reinforcement Learning and How To Tune Them**. In International Conference on Machine Learning, S. 9104–9149. Available online at https://proceedings.mlr.press/v202/eimer23a.html.
 
-Dohare, Shibhansh; Hernandez-Garcia, J. Fernando; Rahman, Parash; Sutton, Richard S.; Mahmood, A. Rupam (2023): **Loss of Plasticity in Deep Continual Learning**. Available online at http://arxiv.org/pdf/2306.13812v2.
+Patterson, Andrew; Neumann, Samuel; White, Martha; White, Adam (2024): **Empirical Design in Reinforcement Learning**. In Journal of Machine Learning Research 25 (318), S. 1–63. Available online at http://www.jmlr.org/papers/v25/23-0183.html.
 
 ## How To Participate <a name="how-to-participate"></a>
 This collection is an ongoing by-product of my PhD program and makes no claim to ever be complete. Far from it and this is why **I need your help**! 
@@ -113,4 +122,5 @@ Sincere thanks to the following contributors:
 | GitHub-Username | Suggested paper(s) |
 | --------------- | ------------------ |
 | [@nehalahmedshaikh](https://github.com/nehalahmedshaikh) | Atashbar, Shi (2023) |
-| [@Jocho-Smith](https://github.com/Jocho-Smith) | Hambly, Ben (2023) |
+| [@Jocho-Smith](https://github.com/Jocho-Smith) | Hambly et al. (2023) |
+| [@abzhaobo](https://github.com/abzhaobo) | Johanson et al. (2022) |
