@@ -46,6 +46,8 @@ Dwarakanath, Kshama; Vyetrenko, Svitlana; Tavallali, Peyman; Balch, Tucker (2024
 
 Evans, Benjamin Patrick; Ganesh, Sumitra (2024): **Learning and Calibrating Heterogeneous Bounded Rational Market Behaviour with Multi-Agent Reinforcement Learning**. Available online at http://arxiv.org/pdf/2402.00787
 
+Gabriele, Federico; Glielmo, Aldo; Taboga, Marco (2025): **Heterogeneous RBCs via deep multi-agent reinforcement learning**. Available online at https://arxiv.org/abs/2510.12272 
+
 ## Game Theory <a name="game-theory"></a>
 Erev, Ido; Roth, Alvin E. (1998): **Predicting How People Play Games: Reinforcement Learning in Experimental Games with Unique, Mixed Strategy Equilibria**. In The American Economic Review 88 (4), pp. 848–881. Available online at http://www.jstor.org/stable/117009
 
