@@ -48,6 +48,8 @@ Evans, Benjamin Patrick; Ganesh, Sumitra (2024): **Learning and Calibrating Hete
 
 Gabriele, Federico; Glielmo, Aldo; Taboga, Marco (2025): **Heterogeneous RBCs via deep multi-agent reinforcement learning**. Available online at https://arxiv.org/abs/2510.12272 
 
+Montagnani, Daniele; Coletta, Andrea; Mira, Antonietta; Glielmo, Aldo (2026): **JaxMARL-BC: Multi-Agent Reinforcement Learning for Macroeconomic Modelling, in Seconds**. Available online at https://arxiv.org/abs/2610.28907
+
 ## Game Theory <a name="game-theory"></a>
 Erev, Ido; Roth, Alvin E. (1998): **Predicting How People Play Games: Reinforcement Learning in Experimental Games with Unique, Mixed Strategy Equilibria**. In The American Economic Review 88 (4), pp. 848–881. Available online at http://www.jstor.org/stable/117009
 
